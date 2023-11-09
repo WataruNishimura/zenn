@@ -1,5 +1,5 @@
 ---
-title: "AWS IAM Identity CenterのidpにGoogle Workspaceを設定してAWSマルチアカウント運用に取り組んだ話"
+title: "AWS IAM Identity CenterのidpにGoogle Workspaceを設定してSSOのAWSマルチアカウント運用に取り組んだ話"
 emoji: "🐕"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["aws"]
