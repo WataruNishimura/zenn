@@ -1,0 +1,11 @@
+{
+  "name": "zenn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/WataruNishimura/zenn.git",
+  "author": "WataruNishimura <wataru.nishimura@socialchangelab.jp>",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "^0.1.148"
+  }
+}
