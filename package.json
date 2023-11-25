@@ -5,6 +5,9 @@
   "repository": "https://github.com/WataruNishimura/zenn.git",
   "author": "WataruNishimura <wataru.nishimura@socialchangelab.jp>",
   "license": "MIT",
+  "scripts": {
+    "new:article": "zenn new:article"
+  },
   "dependencies": {
     "zenn-cli": "^0.1.148"
   }
