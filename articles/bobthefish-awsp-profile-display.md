@@ -1,5 +1,5 @@
 ---
-title: "fish+oh-my-fish+bobthefish+JetBrains Mono Nerd Fonts+awspでターミナルプロンプトにAWSのプロファイルを表示して事故を回避する"
+title: "fish+oh-my-fish+bobthefish+Nerd Fonts+awspでターミナルプロンプトにAWSのプロファイルを表示して事故を回避する"
 emoji: "😽"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["fish","aws","terminal"]
