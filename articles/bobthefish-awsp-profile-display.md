@@ -3,7 +3,7 @@ title: "fish+oh-my-fish+bobthefish+Nerd Fonts+awspでプロンプトにAWSプロ
 emoji: "😽"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["fish","aws","terminal"]
-published: false
+published: true
 ---
 
 ## はじめに
