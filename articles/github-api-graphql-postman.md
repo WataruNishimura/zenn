@@ -19,7 +19,7 @@ GitHub CLI extensionはGitHub CLIの拡張機能としてユーザー自身が�
 
 GitHub CLI の開発については以下記事を参考に取り組んでいます。
 
-[GitHub CLI 拡張機能の作成 - GitHub Docs](GitHub CLI 拡張機能の作成 - GitHub Docs)
+[GitHub CLI 拡張機能の作成 - GitHub Docs](https://docs.github.com/ja/github-cli/github-cli/creating-github-cli-extensions)
 [GitHub Projects(ProjectV2)にIssueやPullRequestを追加するGitHub CLIの拡張を作った](https://swfz.hatenablog.com/entry/2022/12/13/045749)
 
 ## Postman について
@@ -119,7 +119,7 @@ query {
 
 ![](https://storage.googleapis.com/zenn-user-upload/cc6dfda4705c-20240223.png)
 
-以下のようなリクエストが返ってくれば成功です。
+以下のようなレスポンスが返ってくれば成功です。
 ```json
 {
     "data": {
@@ -130,9 +130,9 @@ query {
 }
 ```
 
-### schema情報を読み取り補完させる
+### スキーマ情報を読み取り補完させる
 
-Postmanでは、graphqlのschemaを読み取りQueryやMutationの作成時にスキーマをエディタ上で補完してくれる機能を持ちます。（イントロスペクションと呼ばれる仕組みです）
+Postmanでは、graphqlのスキーマを読み取り、QueryやMutationの作成時にスキーマから引数やフィールドをエディタ上で補完してくれる機能が利用可能です。（イントロスペクションと呼ばれる仕組みです）
 
 同じく、PostmanでQueriesを開き「Schema」タブをクリックして開きます。「Using GraphQL introspection.」をクリックして完了すればOKです。
 
@@ -149,4 +149,4 @@ Postmanでは、graphqlのschemaを読み取りQueryやMutationの作成時に�
 
 ## 参考記事
 
-[既存のGraphQLサービスからSchemeを取得する](https://zenn.dev/nekoshita/articles/7c454e8e552c0d))
+[既存のGraphQLサービスからSchemeを取得する](https://zenn.dev/nekoshita/articles/7c454e8e552c0d)
